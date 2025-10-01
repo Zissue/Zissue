@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Intelligent+Issue+Management;Powered+by+AI;Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
+![](https://komarev.com/ghpvc/?username=zissue&style=flat-square)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=zissue&style=for-the-badge&color=blue)](https://github.com/Zissue)
 [![Stars](https://img.shields.io/github/stars/Zissue/Zissue?style=for-the-badge&logo=github&color=yellow)](https://github.com/Zissue/Zissue/stargazers)
 [![Forks](https://img.shields.io/github/forks/Zissue/Zissue?style=for-the-badge&logo=github&color=green)](https://github.com/Zissue/Zissue/network/members)
