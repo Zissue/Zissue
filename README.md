@@ -83,7 +83,7 @@ Hey there! I'm a passionate developer who loves building things and contributing
 
 ### Thanks for visiting! 👋
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customHexList=3B82F6,F59E42,10B981&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customHexList=3B82F6,F59E42,10B981&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=30&fontAlignY=70&animation=twinkling)
 
 **[⬆ back to top](#-zissue)**
 
