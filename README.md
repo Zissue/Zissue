@@ -2,9 +2,9 @@
 
 # 🎯 Zissue
 
-### *Transform GitHub Issues into Actionable Intelligence*
+### *Developer | Tech Enthusiast | Open Source Contributor*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Intelligent+Issue+Management;Powered+by+AI;Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=zissue&style=flat-square)
 
@@ -17,76 +17,9 @@
 
 ---
 
-## 🌟 What is Zissue?
+## 👋 About Me
 
-**Zissue** is an intelligent GitHub issue management system that leverages AI to streamline your development workflow. Say goodbye to cluttered issue trackers and hello to organized, actionable insights!
-
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║  📋 Issues → 🤖 AI Analysis → ✨ Smart Organization     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Smart Issue Tracking
-- Intelligent categorization
-- Auto-labeling and prioritization
-- Duplicate detection
-- Pattern recognition
-
-</td>
-<td width="50%">
-
-### 🤖 AI-Powered Insights
-- Sentiment analysis
-- Complexity estimation
-- Related issue suggestions
-- Automated triage
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Rich Analytics
-- Issue trends visualization
-- Team performance metrics
-- Response time tracking
-- Custom dashboards
-
-</td>
-<td width="50%">
-
-### 🔗 Seamless Integration
-- GitHub native experience
-- Webhook support
-- API access
-- CI/CD friendly
-
-</td>
-</tr>
-</table>
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/Zissue/Zissue.git
-
-# Navigate to the project
-cd Zissue
-
-# Install dependencies (coming soon)
-npm install
-
-# Start the application (coming soon)
-npm start
-```
+Hey there! I'm a passionate developer who loves building things and contributing to open source. I enjoy working with various technologies and constantly learning new skills.
 
 ## 📈 GitHub Stats
 
@@ -131,26 +64,9 @@ npm start
 
 </div>
 
-## 🤝 Contributing
 
-We love contributions! 💙 Whether it's:
 
-- 🐛 Bug reports
-- 💡 Feature requests
-- 📖 Documentation improvements
-- 🔧 Code contributions
-
-Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started!
-
-<div align="center">
-
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Zissue/Zissue&type=Date&theme=dark)](https://star-history.com/#Zissue/Zissue&Date)
-
-</div>
-
-## 📬 Connect With Us
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -161,17 +77,13 @@ Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started!
 
 </div>
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
 
-### 💖 Made with Love by the Zissue Team
+### Thanks for visiting! 👋
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customHexList=3B82F6,F59E42,10B981&height=100&section=footer&text=Thank%20You!&fontSize=40&fontAlignY=70&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customHexList=3B82F6,F59E42,10B981&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontAlignY=70&animation=twinkling)
 
 **[⬆ back to top](#-zissue)**
 
