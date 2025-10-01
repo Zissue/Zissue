@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 💖 Made with Love by the Zissue Team
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You!&fontSize=40&fontAlignY=70&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customHexList=3B82F6,F59E42,10B981&height=100&section=footer&text=Thank%20You!&fontSize=40&fontAlignY=70&animation=twinkling)
 
 **[⬆ back to top](#-zissue)**
 
